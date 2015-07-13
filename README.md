@@ -1,2 +1,2 @@
 # Documentation
-[Playscape Publishing Kit Technical Documentation](https://github.com/Playscape/Documentation/wiki)
+[Playscape Publishing Documentation Center](https://github.com/Playscape/Documentation/wiki)
